@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8QeJkZvXdHzNNP4Y3hG7LoylAl28mgIgI1ldiEi09MxVtZzO18qpCqkalsJx/SnnzrKKE0M8MBz/asClRBpjA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\CRUDxUNIT\\CRUDSolution\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kishore\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

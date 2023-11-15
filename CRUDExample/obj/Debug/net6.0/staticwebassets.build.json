@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "youyg+GXyEZA4GOW7ya6f3cSRgtM7GJrKqMlSjZaYtU=",
+  "Source": "CRUDExample",
+  "BasePath": "_content/CRUDExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDExample\\wwwroot",
+      "Source": "CRUDExample",
+      "ContentRoot": "C:\\Projects\\CRUDxUNIT\\CRUDSolution\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
